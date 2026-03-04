@@ -60,3 +60,15 @@ Enhancements
 👨‍💻 Author
 
 Developed as an academic mini-project using Python and Gradio
+
+![WhatsApp Image 2026-03-04 at 11 18 42 AM](https://github.com/user-attachments/assets/215acae2-50f7-406d-8af7-c5332c48107d)
+![WhatsApp Image 2026-03-04 at 11 18 43 AM](https://github.com/user-attachments/assets/12039287-2be8-4393-a1ff-45e8e1dc713b)
+![WhatsApp Image 2026-03-04 at 11 18 48 AM](https://github.com/user-attachments/assets/a53aab9c-812b-47db-99c3-badbc8218128)
+![WhatsApp Image 2026-03-04 at 11 18 48 AM (1)](https://github.com/user-attachments/assets/22206e6b-047a-4fc9-ad41-df70969d8994)
+![WhatsApp Image 2026-03-04 at 11 18 51 AM](https://github.com/user-attachments/assets/fa2678bf-f12f-4039-b002-d9afb24f3880)
+
+
+
+
+
+
